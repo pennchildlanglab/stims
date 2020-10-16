@@ -1,0 +1,4 @@
+- lexicon from the University of Rochester (developed by Liz Wonnacot)
+- stims recorded at Georgetown University from 2015-2017
+- voice of Katie Schuler
+- recorded on Marantz and edited in Audacity according to lab protocol

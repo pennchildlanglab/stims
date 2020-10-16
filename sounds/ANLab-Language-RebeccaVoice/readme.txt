@@ -1,0 +1,4 @@
+- lexicon from the University of Rochester (developed by Liz Wonnacot)
+- stims recorded at Georgetown University in 2018
+- voice of Rebecca Rennert
+- recorded on Marantz and edited in Audacity according to lab protocol
